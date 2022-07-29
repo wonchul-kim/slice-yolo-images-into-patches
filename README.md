@@ -4,4 +4,4 @@ Slice yolo images (w/ labels) into patches when the image is too huge compared t
 
 Make sure that in the dataset directory, there must be pais of image and label with same filename just same to yolo datasets
 
-<src img='./slice.png'>
+<img src='./slice.png'>
